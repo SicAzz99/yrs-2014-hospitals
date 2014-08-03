@@ -131,7 +131,7 @@ body {
 }
 
 #topsection {
-    background: -webkit-linear-gradient(left, #1e5799 0%,#2b28fc 0%,#2989d8 15%,#7db9e8 100%);
+    background: -webkit-linear-gradient(left, #FF0000 0%,#FF4C4C 0%,#FF7373 15%,#FFA6A6 100%)
     width: 1149px;
     height: 110px;
     border-radius: 10px;
